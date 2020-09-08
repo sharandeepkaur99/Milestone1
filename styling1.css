@@ -1,23 +1,21 @@
-/* styling1.css */
-/* element selector */
 h1 {
   background-color: #edd9f5;
   text-align: center;
-  color: #691b88
+  color: #691b88;
 }
 
 h2 {
   background-color: #f5d4f1;
   text-align: left;
-  color: #e033cb
+  color: #e033cb;
 }
 
 body {
-  background-color: #f7f2db
+  background-color: #f7f2db;
 }
 
 p {
-  color: #1213aa
+  color: #1213aa;
 }
 
 
