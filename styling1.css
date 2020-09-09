@@ -19,6 +19,14 @@ p {
   border-bottom: 4px solid violet;
 }
 
+img {
+  opacity: 0.4;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
 
 
 
