@@ -19,7 +19,8 @@ p {
 }
 
 .divs {
-  border-style: dotted;
+  border-top: 4px solid violet;
+  border-bottom: 4px solid violet;
 }
 
 
