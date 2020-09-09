@@ -19,7 +19,7 @@ p {
 }
 
 .divs {
-  border: 2px double black;
+  border-style: dotted;
 }
 
 
