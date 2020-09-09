@@ -11,7 +11,7 @@
 }
   
 @media print {
-  body {
-    margin: 15px
+  .screen_only {
+    display: none
   }
 }
