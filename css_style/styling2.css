@@ -20,11 +20,14 @@ ul li {
   padding: 15px
 }
 
+table {
+  height: 75px;
+  width: 50px
+}
+
 table, th, td {
   border: 1px solid blue;
   align: center;
-  height: 75px;
-  width: 50px
 }
   
 
