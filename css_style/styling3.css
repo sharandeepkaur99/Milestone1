@@ -2,11 +2,18 @@
   body {
     background-color: white;
   }
+  
+  h1 {
+    background color: powder blue;
+  }
 }
 
 @media only screen and (min-width: 601px) {
   body {
     background-color: #eae9e8;
+  }
+  h1 {
+    background color: baby pink;
   }
 }
   
