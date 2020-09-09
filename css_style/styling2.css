@@ -12,6 +12,10 @@ a:visited {
 }
 
 ul {
-  list-style-type: diamond;
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
 }
 
