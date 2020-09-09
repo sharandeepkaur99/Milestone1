@@ -24,14 +24,17 @@ ul li {
   padding: 15px
 }
 
-table {
-  height: 75px;
-  width: 50px
-}
 
 table, th, td {
   border: 1px solid blue;
   align: center;
+}
+
+input[type=text] {
+   width: 100%;
+   padding: 12px 20px;
+   margin: 8px 0;
+   box-sizing: border-box;
 }
   
 
