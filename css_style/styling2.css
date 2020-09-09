@@ -19,5 +19,9 @@ ul li {
   margin: 5px;
   padding: 15px
 }
+
+table, th, td {
+  border: 1px solid blue;
+}
   
 
