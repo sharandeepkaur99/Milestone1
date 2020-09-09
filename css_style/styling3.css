@@ -1,10 +1,10 @@
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 600px) {
   body {
     background-color: white;
   }
 }
 
-@media only screen and (min-width: 451px) {
+@media only screen and (min-width: 601px) {
   body {
     background-color: #eae9e8;
   }
